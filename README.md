@@ -5,6 +5,7 @@
 **Disciplina:** Sistemas Operacionais (TADS – CNAT/IFRN)  
 **Professor:** Leonardo A. Minora  
 **Aluno(a):** Maria Clara da Silva Melo
+**Data:** 15/09/2025  
 
 
 
